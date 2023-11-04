@@ -1,5 +1,5 @@
-$ImageUrl = https://i.imgur.com/3KvT9je.jpg
-$ImageName = boikoo
+$ImageUrl = "https://i.imgur.com/3KvT9je.jpg"
+$ImageName = "boikoo"
 
 Function Set-WallPaper {
  
